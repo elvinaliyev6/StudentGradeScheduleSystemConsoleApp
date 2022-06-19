@@ -1,6 +1,7 @@
+az\orient\course\util\MainUtil.class
+az\orient\course\main\MainClass.class
 az\orient\course\member\Student.class
 az\orient\course\member\Dechan.class
-az\orient\course\util\MainUtil.class
+az\orient\course\main\ObjectIOExample.class
 az\orient\course\util\FileUtility.class
-az\orient\course\main\MainClass.class
 az\orient\course\member\Tutor.class
