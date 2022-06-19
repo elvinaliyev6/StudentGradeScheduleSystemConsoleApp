@@ -7,9 +7,6 @@ import java.util.Scanner;
 
 public class MainUtil {
 
-
-
-
     public static boolean login(String username, String password, String filePath) throws Exception {
         File file=new File(FileUtility.folderPath);
         if(!file.exists()){
@@ -25,10 +22,5 @@ public class MainUtil {
         }
         return false;
     }
-
-
-
-
-
 
 }
